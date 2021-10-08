@@ -6,4 +6,5 @@ User Manuals and Guides
 2. [Craftsman Circular Saw Model No. 315.108241](./craftsman-circular-saw)
 3. [Stanley Tools Saw Angle Guide](./stanley-tools-saw-angle-guide)
 4. [Sears Analog Multitester 41 Range](./sears-bench-analog-multitester-41-range)
+4. [Sears Craftsman Home Sharpener](./sears-craftsman-home-sharpener)
 5. [Hawk Exhaust Gas Analyzer](./hawk-exhaust-gas-analyzer-model-620)
