@@ -2,7 +2,7 @@
 
 User Manuals and Guides
 
-1. [Amazon Fire TV Stick](./fire-tv-stick)
+1. [Amazon Fire TV Stick](./amazon-fire-tv-stick)
 2. [Digital Mini SLR Camera](./digital-mini-slr-camera)
 3. [Hansleep Heated Throw](./hansleep-heated-throw)
 4. [Hawk Exhaust Gas Analyzer](./hawk-exhaust-gas-analyzer-model-620)
