@@ -22,4 +22,5 @@ User Manuals and Guides
 18. [Speedy Sprayer Compact Spray Outfit No. 404 - including Model 401-B Compressor and Model 222-A Spray Gun](./speedy-sprayer/)
 19. [Spectrum Remote Control Users Guide - SR-002-U](./spectrum-remote-control-users-guide-sr-002-u)
 20. [Stanley Tools Saw Angle Guide](./stanley-tools-saw-angle-guide)
-21. [X-ACTO Wood Carving Instruction Booklet - CS104](./X-ACTO%20Wood%20Carving%20Instruction%20Booklet%20-%20CS104)
+21. [Vivo Home](./vivo-home/images/Vivo%20Home%20Instruction%20Manual.jpeg)
+22. [X-ACTO Wood Carving Instruction Booklet - CS104](./X-ACTO%20Wood%20Carving%20Instruction%20Booklet%20-%20CS104)
