@@ -5,7 +5,7 @@ User Manuals and Guides
 1. [3-in-1 Charging Station](3-in-1-charging-station/)
 2. [Amazon Fire TV Stick](./amazon-fire-tv-stick)
 3. [American Optical Microscope](./american-optical-series-150-microscope/)
-4. [AmScope DM-140 Microscope](./amscope-dm-140)
+4. [AmScope DM-140 Microscope](./amscope-dm140/)
 4. [Digital Mini SLR Camera](./digital-mini-slr-camera)
 5. [Greenworks Inflator](./greenworks-inflator/pdf/)
 6. [Hansleep Heated Throw](./hansleep-heated-throw)
